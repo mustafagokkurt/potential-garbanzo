@@ -19,7 +19,7 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>3.0.0</version>
         <configuration>
-          <warSourceDirectory>111</warSourceDirectory>
+          <warSourceDirectory>branch 1 2222</warSourceDirectory>
         </configuration>
       </plugin>
     </plugins>
